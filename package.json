@@ -1,0 +1,21 @@
+{
+  "name": "opensea-data",
+  "version": "2.0.0",
+  "description": "Serverless API to take OpenSea data",
+  "author": "MultipleHats",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.24.0",
+    "@vercel/node": "^1.8.5",
+    "axios": "^0.22.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "consola": "^2.15.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "playwright-core": "^1.15.2",
+    "puppeteer-core": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.8.1"
+  },
+  "devDependencies": {}
+}
